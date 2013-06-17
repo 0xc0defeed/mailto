@@ -1,0 +1,4 @@
+body { padding: 50px; }
+
+span.mail:before { content: "hello@"; }
+span.mail:after { content: "example.com"; }
